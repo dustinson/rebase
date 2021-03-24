@@ -12,4 +12,8 @@ m1-edit6
 >>>>>>> m1 edit 6
 =======
 b1-edit3 
+<<<<<<< HEAD
 >>>>>>> b1 edit 3
+=======
+b1-edit4 
+>>>>>>> b1 edit 4
